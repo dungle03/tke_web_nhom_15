@@ -1,0 +1,1 @@
+mỗi 1 sản phẩm ôg tạo một folder(thư mục) mới và copy file index và css nha
